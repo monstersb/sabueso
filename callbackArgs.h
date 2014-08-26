@@ -1,0 +1,3 @@
+struct trafficCollectorArgumentsStruct{
+	int* shmPtr;
+};
